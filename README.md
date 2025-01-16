@@ -21,7 +21,7 @@ Reboot System:
 After the script has completed its execution, please reboot your system to ensure all changes take effect. You can reboot the system by running:
 sudo reboot
 
-Notes
+Notes:
 Ensure you have the necessary permissions to execute the above commands.
 Running scripts with sudo grants them elevated privileges, so ensure you trust the source of the script.
 Thank you for following these instructions. If you encounter any issues, please consult your system administrator.
